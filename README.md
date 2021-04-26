@@ -1,5 +1,5 @@
 
-<font size="5"><center>#How GridDB works with IoT data</center></font>
+#How GridDB works with IoT data
 
 ![alt_text](images/image1.png "image_tooltip")
 
