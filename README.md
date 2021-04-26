@@ -1,6 +1,8 @@
 
 <font size="5"><center>**How GridDB works with IoT data**</center></font>
 
+![alt_text](images/image1.png "image_tooltip")
+
 
 Personally, I have been using GridDB for a time-series database for a variety of applications including the stock price prediction. GridDB has a lot of plugins when it comes to storing key-value pairs filtered by epoch timestamp. As we are aware, there are a lot of IoT startups that are building their tech products that often need the requirement for a scalable time-series database.
 
